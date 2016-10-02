@@ -1,0 +1,7 @@
+mop_core:
+    resource: "@MOPCoreBundle/Resources/config/routing.yml"
+    prefix:   /
+
+atelier_core:
+    resource: "@AtelierCoreBundle/Resources/config/routing.yml"
+    prefix:   /

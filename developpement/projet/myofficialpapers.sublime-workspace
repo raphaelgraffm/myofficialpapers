@@ -1,0 +1,990 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"papier_",
+				"papier_gauche"
+			],
+			[
+				"ma",
+				"main-title"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"font",
+				"font-style\t(fonts.less)"
+			],
+			[
+				"Ate",
+				"AtelierCoreBundle\t(AppKernel.php)"
+			],
+			[
+				"nav-",
+				"nav-hover\t(styles.less)"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"secio",
+				"section-bleu\t(styles.less)"
+			],
+			[
+				"cont",
+				"content-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"sectio",
+				"section-bleu\t(styles.less)"
+			],
+			[
+				"flech",
+				"fleche-logo\t(top.php)"
+			],
+			[
+				"bacgrou",
+				"background-color"
+			],
+			[
+				"flot",
+				"flot-appeared"
+			],
+			[
+				"prin",
+				"principal"
+			],
+			[
+				"activ",
+				"activate_navigation\t(interactions.coffee)"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"nav-principale",
+				"nav-principale-fond\t(top.php)"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backgoru",
+				"background-repeat"
+			],
+			[
+				"nav",
+				"nav-principale\t(top.php)"
+			],
+			[
+				"nav_activi",
+				"nav_activites_left"
+			],
+			[
+				"nav_activ",
+				"nav_activites_left\t(animations.coffee)"
+			],
+			[
+				"undepl",
+				"undepl_two\t(interactions.coffee)"
+			],
+			[
+				"unde",
+				"undepl_two"
+			],
+			[
+				"main",
+				"main_left"
+			],
+			[
+				"nav_ac",
+				"nav_activites_left"
+			],
+			[
+				"viewpo",
+				"viewport_width\t(interactions.coffee)"
+			],
+			[
+				"view",
+				"viewport_width\t(variables.coffee)"
+			],
+			[
+				"deplo",
+				"deploy_two"
+			],
+			[
+				"deploy",
+				"deploy_two_nav\t(animations.coffee)"
+			],
+			[
+				"depl",
+				"deploy_two_nav"
+			],
+			[
+				"deploy_",
+				"deploy_two_main"
+			],
+			[
+				"formatio",
+				"formations.php\t(formations.php)"
+			],
+			[
+				"un",
+				"undeploy_principale"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"jquery",
+				"jquery_inclusion_script"
+			],
+			[
+				"clear",
+				"clearfix\t(boilerplate.css)"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"hibuk_",
+				"hibuk_name\t(layout.html.twig)"
+			],
+			[
+				"style",
+				"stylesheets"
+			],
+			[
+				"char",
+				"charset\tAttr"
+			],
+			[
+				"OCPlat",
+				"OCPlatformBundle:Advert:menu.html.twig"
+			],
+			[
+				"User",
+				"UserBundle\t(User.php)"
+			],
+			[
+				"Constr",
+				"ConstraintValidator"
+			],
+			[
+				"Cate",
+				"CategoryType\t(CategoryType.php)"
+			],
+			[
+				"Image",
+				"ImageType"
+			],
+			[
+				"advert",
+				"advertSkill"
+			],
+			[
+				"OCPlatform",
+				"OCPlatformBundle:AdvertSkill"
+			],
+			[
+				"OCPla",
+				"OCPlatformBundle:Advert"
+			],
+			[
+				"OCP",
+				"OCPlatformBundle:Advert:index.html.twig"
+			],
+			[
+				"Advert",
+				"AdvertSkill"
+			],
+			[
+				"set",
+				"setTitle\t(AdvertController.php)"
+			],
+			[
+				"OC",
+				"OCPlatformBundle:AdvertSkill\t(AdvertController.php)"
+			],
+			[
+				"advert_",
+				"advert_skill"
+			],
+			[
+				"adv",
+				"advert_skills\t(AdvertController.php)"
+			],
+			[
+				"Appl",
+				"ApplicationMailer\t(ApplicationMailer.php)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"appli",
+				"application1"
+			],
+			[
+				"section",
+				"\\section*{title}\tlatex-document"
+			],
+			[
+				"usep",
+				"\\usepackage{package}\tlatex-document"
+			],
+			[
+				"sec",
+				"\\section*{title}\tlatex-document"
+			],
+			[
+				"make",
+				"\\maketitle\tlatex-document"
+			],
+			[
+				"dt",
+				"data_img"
+			],
+			[
+				"M_til",
+				"M_tilde"
+			],
+			[
+				"affiche",
+				"affiche_U_Utilde"
+			],
+			[
+				"ecr",
+				"ecrire_fichier"
+			],
+			[
+				"maillage",
+				"maillage_plat"
+			],
+			[
+				"L",
+				"l"
+			],
+			[
+				"diff_",
+				"diff_patch_affiche"
+			],
+			[
+				"mat_derivee",
+				"mat_derivee_seconde"
+			],
+			[
+				"largeur_",
+				"largeur_min"
+			],
+			[
+				"longueu",
+				"longueurs_zones"
+			],
+			[
+				"indic",
+				"indice_bord_droit"
+			],
+			[
+				"indice",
+				"indice_bord_gauche"
+			],
+			[
+				"prix",
+				"prix_recursif"
+			],
+			[
+				"affic",
+				"afficheNet"
+			],
+			[
+				"illum",
+				"illumination_extern"
+			],
+			[
+				"trace",
+				"trace_degres"
+			],
+			[
+				"moyenne",
+				"moyenne_actif"
+			],
+			[
+				"tra",
+				"traceErreur"
+			],
+			[
+				"blo",
+				"block_diag"
+			],
+			[
+				"dia",
+				"block_diag"
+			],
+			[
+				"calc",
+				"calcDistance"
+			],
+			[
+				"larg",
+				"largeurImage"
+			],
+			[
+				"lar",
+				"largeurImage"
+			],
+			[
+				"Fourier_",
+				"Fourier_dx"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Raphael/Sites/myofficialpapers/developpement/scripts/mise_en_ligne.sh",
+			"settings":
+			{
+				"buffer_size": 247,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Raphael/Sites/myofficialpapers/.gitignore",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Raphael/Sites/myofficialpapers/developpement/scripts/update_server.sh",
+			"settings":
+			{
+				"buffer_size": 393,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Raphael/Sites/myofficialpapers/developpement/scripts/operations.sh",
+			"settings":
+			{
+				"buffer_size": 206,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ulti",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"m",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac con l",
+				"Package Control: Install Package"
+			],
+			[
+				"pac co in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac vi",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"pac co",
+				"Package Control: Install Package"
+			],
+			[
+				"pack res vi",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"Pack In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 449.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Raphael/Sites/myofficialpapers"
+	],
+	"file_history":
+	[
+		"/Users/Raphael/Sites/myofficialpapers/developpement/projet/myofficialpapers.sublime-project",
+		"/Users/Raphael/Sites/ateliers/.gitignore",
+		"/Users/Raphael/Sites/ateliers/web/svg/papier_gauche.svg",
+		"/Users/Raphael/Sites/ateliers/developpement/scripts/operations.sh",
+		"/Users/Raphael/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/Raphael/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/Raphael/Sites/ateliers/src/Atelier/CoreBundle/Resources/views/Core/index.html.twig",
+		"/Users/Raphael/Sites/ateliers/developpement/scripts/mise_en_ligne.sh",
+		"/Users/Raphael/Sites/ateliers/app/config/config.yml",
+		"/Users/Raphael/Sites/ateliers/web/css/styles.css",
+		"/Users/Raphael/Sites/ateliers/web/app_dev.php",
+		"/Users/Raphael/Sites/ateliers/app/AppKernel.php",
+		"/Users/Raphael/Sites/ateliers/web/app.php",
+		"/Users/Raphael/Sites/ateliers/src/Atelier/CoreBundle/Resources/less",
+		"/Users/Raphael/Sites/ateliers/src/Atelier/CoreBundle/Controller/CoreController.php",
+		"/Users/Raphael/Sites/ateliers/developpement/scripts/update_server.sh",
+		"/Users/Raphael/Sites/ateliers/app/config/routing.yml",
+		"/Users/Raphael/Sites/ateliers/src/Atelier/CoreBundle/Resources/config/routing.yml",
+		"/Users/Raphael/Sites/ateliers/src/Atelier/CoreBundle/AtelierCoreBundle.php",
+		"/Users/Raphael/Sites/ateliers/app/config/parameters_node.yml",
+		"/Users/Raphael/Sites/ateliers/app/config/config_prod.yml",
+		"/Users/Raphael/Sites/ateliers/src/AppBundle/AppBundle.php",
+		"/Users/Raphael/Sites/ateliers/app/config/security.yml",
+		"/Users/Raphael/Sites/ateliers/app/config/parameters.yml",
+		"/Users/Raphael/Sites/ateliers/composer.json",
+		"/Users/Raphael/Sites/ateliers/composer.phar",
+		"/Users/Raphael/Sites/ateliers/composer.lock",
+		"/Users/Raphael/Sites/ateliers/app/config/config_dev.yml",
+		"/Users/Raphael/Sites/ateliers/app/config/config_test.yml",
+		"/Users/Raphael/Sites/ateliers/developpement/projet/ateliers.sublime-project",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/SHS/cours_1.md",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Planification/cours_1.md",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Design Thinking/cours_1.md",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Design Thinking",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/RechOp/Premier_cours.md",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Projet Mélusine/intro.md",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Métiers de l'Industrie/Seance_2/premier_contact.txt",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Atelier Entrepreneuriat/Seance_1.md",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Métiers de l'Industrie/Seance_1_Fabrice_Bonneau.md",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Rentree/cIM.md",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Excel_Access/seance5.md",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Excel_Access/seance4.md",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Excel_Access/seance3.md",
+		"/Users/Raphael/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Excel_Access/seance2.md",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Excel_Access/seance1.md",
+		"/Users/Raphael/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Excel_Access/lundi_matin.md",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Excel_Access/lundi_apres_midi.md",
+		"/Users/Raphael/Library/Application Support/Sublime Text 3/Packages/User/Themes/markdown.tmTheme",
+		"/Users/Raphael/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Raphael/Sites/ateliers/src/AppBundle/Resources/config/routing.yml",
+		"/Users/Raphael/Sites/ateliers/src/AppBundle/Resources/views/layout.html.twig",
+		"/Users/Raphael/Sites/ateliers/src/AppBundle/Controller/AppController.php",
+		"/Users/Raphael/Sites/ateliers/web/bundles/framework/css/body.css",
+		"/Users/Raphael/Documents/Ponts/1A/Sem2_2/IPPEX/soutenance/structure.txt",
+		"/Users/Raphael/Sites/ateliers/app/autoload.php",
+		"/Users/Raphael/Sites/ateliers/developpement/cahierDesCharges.txt",
+		"/Users/Raphael/Sites/ateliers/projet/ateliers.sublime-project",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Rentree/presentationGI.txt",
+		"/Users/Raphael/Documents/Ponts/2A/Sem1/Rentree/amphi3A.txt",
+		"/Users/Raphael/Documents/Ponts/1A/Sem2_2/IPPEX/debriefing.txt",
+		"/Users/Raphael/Documents/Ponts/1A/Sem2_2/IPPEX/Journal de bord/antonio",
+		"/Users/Raphael/Documents/Ponts/1A/Sem2_2/IPPEX/Journal de bord/matthieu",
+		"/Users/Raphael/Documents/Ponts/1A/Sem2_2/IPPEX/Journal de bord/journal.tex",
+		"/Users/Raphael/Sites/ki/html/layout/top.php",
+		"/Users/Raphael/Sites/ki/developpement/less/fonts.less",
+		"/Users/Raphael/Sites/ki/html/lan.php",
+		"/Users/Raphael/Sites/ki/html/index.php",
+		"/Users/Raphael/Sites/ki/developpement/less/large/styles.less",
+		"/Users/Raphael/Sites/ki/html/layout/bottom.php",
+		"/Users/Raphael/Sites/ki/developpement/less/large/parametres-large.less",
+		"/Users/Raphael/Sites/ki/html/formations.php",
+		"/Users/Raphael/Sites/ki/developpement/coffee/interactions.coffee",
+		"/Users/Raphael/Sites/ki/img/layout/blue_section_bas.svg",
+		"/Users/Raphael/Sites/ki/developpement/coffee/variables.coffee",
+		"/Users/Raphael/Sites/ki/developpement/coffee/navigation.coffee",
+		"/Users/Raphael/Sites/ki/developpement/less/parametres.less",
+		"/Users/Raphael/Sites/ki/html/membres.php",
+		"/Users/Raphael/Sites/ki/membres.php",
+		"/Users/Raphael/Sites/ki/css/large/styles.dev.css",
+		"/Users/Raphael/Sites/ki/.pleeeaserc",
+		"/Users/Raphael/Sites/ki/developpement/scripts/process.sh",
+		"/Users/Raphael/Sites/ki/img/layout/bande_moyen.svg",
+		"/Users/Raphael/Sites/ki/developpement/less/ipad/parametres-ipad.less",
+		"/Users/Raphael/Sites/ki/developpement/less/ipad/styles.less",
+		"/Users/Raphael/Sites/ki/js/main.js",
+		"/Users/Raphael/Sites/ki/developpement/coffee/animations.coffee",
+		"/Users/Raphael/Sites/ki/img/layout/fleche.svg",
+		"/Users/Raphael/Sites/ki/img/layout/flottante.svg",
+		"/Users/Raphael/Sites/ki/html/upont.php",
+		"/Users/Raphael/Sites/ki/developpement/Notes.txt",
+		"/Users/Raphael/Sites/ki/img/layout/banniere.svg",
+		"/Users/Raphael/Sites/ki/img/layout/bande_court.svg",
+		"/Users/Raphael/Sites/ki/img/layout/bande_long.svg",
+		"/Users/Raphael/Sites/ki/developpement/idees.txt",
+		"/Users/Raphael/Sites/ki/developpement/coffee/navigation_old.coffee",
+		"/Users/Raphael/Sites/ki/html/rejoindre.php",
+		"/Users/Raphael/Sites/ki/html/depannage.php",
+		"/Users/Raphael/Sites/ki/html/layout/logo.php",
+		"/Users/Raphael/Sites/ki/css/large/styles.css",
+		"/Users/Raphael/Sites/ki/img/layout/logo.svg",
+		"/Users/Raphael/Sites/ki/developpement/less/base.less",
+		"/Users/Raphael/Sites/ki/js/main.min.js",
+		"/Users/Raphael/Sites/ki/project/ki.sublime-project",
+		"/Users/Raphael/Sites/ki/img/layout/fond.svg",
+		"/Users/Raphael/Sites/ki/js/main_bis.js",
+		"/Users/Raphael/Sites/ki/js/navigation_old.js",
+		"/Users/Raphael/Sites/ki/developpement/coffee/jquery.coffee",
+		"/Users/Raphael/Sites/ki/js/navigation.js",
+		"/Users/Raphael/Sites/ki/developpement/coffee/test.coffee",
+		"/Users/Raphael/Sites/ki/developpement/coffee/navigation.js",
+		"/Users/Raphael/Library/Application Support/Sublime Text 3/Packages/User/CoffeeScript.sublime-settings",
+		"/Users/Raphael/Sites/ki/developpement/scripts/mise_en_ligne.sh",
+		"/Users/Raphael/Sites/ki/less/large/styles.less",
+		"/Users/Raphael/Sites/ki/css/base.css",
+		"/Users/Raphael/Sites/ki/upont.php",
+		"/Users/Raphael/Sites/ki/lan.php",
+		"/Users/Raphael/Sites/ki/rejoindre.php",
+		"/Users/Raphael/Sites/ki/depannage.php",
+		"/Users/Raphael/Sites/ki/less/large/parametres-large.less",
+		"/Users/Raphael/Sites/ki/index.php",
+		"/Users/Raphael/Sites/ki/less/parametres.less",
+		"/Users/Raphael/Sites/ki/formations.php",
+		"/Users/Raphael/Sites/ki/less/base.less",
+		"/Users/Raphael/Sites/ki/html/accueil.php",
+		"/Users/Raphael/Sites/ki/html/activites/formations.php",
+		"/Users/Raphael/Sites/ki/lessify.sh"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\t<dict>\n\t\t\t<key>name</key>\n\t\t\t<string> Source </string>\n\t\t\t<key>scope</key>\n\t\t\t<string>text.html.markdown meta.paragraph.markdown markup.italic.markdown</string>\n\t\t\t<key>settings</key>\n\t\t\t<dict>\n\t\t\t\t<key>foreground</key>\n\t\t\t\t<string>#</string>\n\t\t\t\t<key>fontStyle</key>\n\t\t\t\t<string>italic</string>\n\t\t\t</dict>\n\t\t</dict>",
+			"#0B3685",
+			"Bounce",
+			"principale",
+			"#decalage_gauche",
+			"private",
+			"#mise_a_zero",
+			"mise_a_zero",
+			"\t#",
+			"Advert",
+			"();\n",
+			"Application",
+			")\n",
+			"form",
+			"em",
+			"FixtureInterface",
+			"Category",
+			"getOcPlatform_AntispamService",
+			"getTemplatingService",
+			"getTemplatin",
+			"\\\\\n",
+			" \n",
+			"non",
+			"produit",
+			"librairie",
+			".\n",
+			"gallinacée",
+			"\",",
+			"flamboyante",
+			"}\n",
+			"begin",
+			"language",
+			"\n\\",
+			"échange",
+			"gallinacée",
+			"de",
+			"gallinacée",
+			"suivantes",
+			"gallinacée",
+			"}\n",
+			"gallinacée",
+			"au",
+			"vérifiée",
+			"maketitle",
+			"chaotique",
+			"itérations",
+			"même",
+			"glouton",
+			"observe",
+			"}\n",
+			"paragraph",
+			"Physique",
+			"paragraph",
+			"statistique",
+			"eqnarray",
+			"eq",
+			"equation",
+			"section",
+			"19",
+			"plus_court_chemin_moyen",
+			"clustering_moyen",
+			"mat",
+			"M_tilde",
+			"affiche_maillage",
+			"];",
+			"0",
+			"();\n",
+			"complex",
+			"const",
+			"std",
+			"Image",
+			"Images",
+			");\n",
+			"key"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"equation"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Raphael/Sites/myofficialpapers/developpement/scripts/mise_en_ligne.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Raphael/Sites/myofficialpapers/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Raphael/Sites/myofficialpapers/developpement/scripts/update_server.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Raphael/Sites/myofficialpapers/developpement/scripts/operations.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "myofficialpapers.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ff",
+				"~/Documents/Ponts/1A/Sem2/Algo/TPs/TP3bis/sources/fft.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/ateliers/developpement/projet/ateliers.sublime-project"
+			],
+			[
+				"test_s",
+				"~/Sites/test_symfony/project/test_symfony.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
